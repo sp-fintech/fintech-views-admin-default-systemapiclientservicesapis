@@ -1,11 +1,11 @@
 {
 	"name" : "SystemApiClientServicesApis",
-	"display_name" : "SP Fintech SystemApiClientServicesApis View",
-	"description" : "<p>SystemApiClientServicesApis View</p>",
+	"display_name" : "Fintech Api Client Services Apis View",
+	"description" : "<p>Fintech Api Client Services Apis View</p>",
 	"module_type" : "views",
 	"app_type" : "fintech",
 	"category" : "admin",
-	"version" : "0.0.0",
+	"version" : "0.1.0",
 	"repo" : "https://github.com/sp-fintech/fintech-views-admin-default-systemapiclientservicesapis",
 	"dependencies" : 
 	{
